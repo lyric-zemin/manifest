@@ -54,7 +54,9 @@
 
   https://gh-proxy.com/raw.githubusercontent.com/bin1site1/V2rayFree/refs/heads/main/config.txt
 
-  https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v2
+  https://v2rayshare.githubrowcontent.com/2025/12/20251216.txt
+
+  https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.txt
   ```
 </details>
 
